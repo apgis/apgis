@@ -1,5 +1,5 @@
 # 💫 About Me:
-II am a passionate Computer Science and Engineering (AIML) student, driven by a curiosity for artificial intelligence and machine learning. I aim to leverage AI technologies to solve real-world problems and contribute to the future of intelligent systems 
+I am a passionate Computer Science and Engineering (AIML) student, driven by a curiosity for artificial intelligence and machine learning. I aim to leverage AI technologies to solve real-world problems and contribute to the future of intelligent systems 
 
 
 ## 🌐 Socials:
